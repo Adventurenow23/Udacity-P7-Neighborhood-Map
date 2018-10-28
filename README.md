@@ -1,4 +1,5 @@
-####### Udacity-P7-Neighborhood-Map
+####### **Udacity-P7-Neighborhood-Map**
+
 Final Project for the Udacity FEND Nanodegree program utilizing ReactJS to construct an informational map
 
 This project was bootstrapped with Create React App.
