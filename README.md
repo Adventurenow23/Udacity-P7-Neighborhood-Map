@@ -27,5 +27,8 @@ Software Needed:
 
 #### **Dependencies:**
 1) GoogleMaps JavaScript API
+https://console.cloud.google.com/google/maps-apis/overview
 2) FourSquare API
-3) Create React App
+https://developer.foursquare.com/
+3) Create React App   
+https://github.com/facebook/create-react-app
