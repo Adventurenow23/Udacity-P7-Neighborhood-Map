@@ -20,7 +20,7 @@ Software Needed:
 3) Download all files to subfolder
 4) Run npm install
 5) Run npm start
-6) Project will open in browser at localhost:3000
+6) Project will open in browser at http://localhost:3000
 
 #### **Deploying in GitHub:**
 
