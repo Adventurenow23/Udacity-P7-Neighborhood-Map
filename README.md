@@ -3,9 +3,9 @@ Final Project for the Udacity FEND Nanodegree program utilizing ReactJS to const
 
 This project was bootstrapped with Create React App.
 
-##**Starting Construction**
+###**Starting Construction**###
 
-##**Instructions and required software to develop an app of your own:**
+###**Instructions and required software to develop an app of your own:**###
 
 Software Needed:
 1) NPM/node.js
@@ -13,7 +13,7 @@ Software Needed:
 3) Google Maps API key
 4) FourSquare API key
 
-##**Install:**
+###**Install:**###
 1) Create main directory with subfolder at command prompt
 2) Using command prompt, navigate to subfolder
 3) Download all files to subfolder
@@ -21,10 +21,10 @@ Software Needed:
 5) Run npm start
 6) Project will open in browser at localhost:3000
 
-##**Deploying in GitHub:**
+###**Deploying in GitHub:**###
 
 
-##**Dependencies:**
+###**Dependencies:**###
 1) GoogleMaps JavaScript API
 2) FourSquare API
 3) Create React App
