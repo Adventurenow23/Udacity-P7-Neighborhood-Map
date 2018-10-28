@@ -24,6 +24,8 @@ Software Needed:
 
 #### **Deploying in GitHub:**
 
+
+#### **Dependencies**
 1) GoogleMaps JavaScript API
 2) FourSquare API
 3) Create React App
