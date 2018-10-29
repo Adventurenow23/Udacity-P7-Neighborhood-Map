@@ -13,6 +13,7 @@ Software Needed:
 2) React 
 3) Google Maps API key
 4) FourSquare API key
+5) Code Editor Software: Atom, Sublime, VisualStudioCode etc...
 
 #### **Install:**
 1) Create main directory with subfolder at command prompt
@@ -22,10 +23,10 @@ Software Needed:
 5) Run npm start
 6) Project will open in browser at http://localhost:3000
 
-#### **Deploying in GitHub:**
-
-
-#### **Live website demonstration**
+#### **Attributes of gratitude:**
+Attributes for this project are given with great gratitude to:
+Forrest Walker, Jason Michael White, James D. Bartlett3, Robert Allen, Ryan Waite, hColleen and Doug Brown
+the entire Undefined1 cohort, Janice Medina and Crystal for their "wonderlists" and the entire Udacity Administration and Coordination Team for all of the hard work and motivation to all students other than myself for the past year.
 
 
 #### **Dependencies:**
@@ -35,3 +36,11 @@ https://console.cloud.google.com/google/maps-apis/overview
 https://developer.foursquare.com/
 3) Create React App   
 https://github.com/facebook/create-react-app
+4) React Style Guide
+https://tomchentw.github.io/react-google-maps/#hocs
+5) Forrest Walker Walkthrough Tutorial Video
+https://www.youtube.com/channel/UCKbBXgnuGVHxySwfc6JsWnA
+6) Ryan Waite Walkthrough Tutorial Video
+https://www.youtube.com/channel/UCRb4dFjhmm8RfvTgIfBtXFg
+7) Doug Brown Walkthrough Tutorial Video
+https://youtu.be/NVAVLCJwAAo
