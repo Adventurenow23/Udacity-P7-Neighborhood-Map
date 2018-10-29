@@ -25,7 +25,7 @@ Software Needed:
 
 #### **Attributes of gratitude:**
 Attributes for this project are given with great gratitude to:
-Forrest Walker, Jason Michael White, James D. Bartlett3, Robert Allen, Ryan Waite, hColleen and Doug Brown
+Forrest Walker, Jason Michael White, James D. Bartlett3, Robert Allen, Ryan Waite, hColleen and Doug Brown,
 the entire Undefined1 cohort, Janice Medina and Crystal for their "wonderlists" and the entire Udacity Administration and Coordination Team for all of the hard work and motivation to all students other than myself for the past year.
 
 
