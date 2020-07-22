@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/googlemaps": "^3.39.10",
+    "@types/markerclustererplus": "^2.1.33",
+    "@types/react": "^16.9.43",
+    "ajv": "^6.12.3",
     "default-passive-events": "^1.0.10",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
